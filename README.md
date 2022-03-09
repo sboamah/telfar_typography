@@ -8,4 +8,5 @@ Highlighted in the design brief are:</br>
 - Color Schemes
 - Mood Board: specific design inspirations
 
-See full design brief: https://docs.google.com/document/d/1IlbKzxddYcenqjS1IhKvlIhNrx3BtaQPPRn9ZSQVTlU/edit?usp=sharing
+See full design brief: https://docs.google.com/document/d/1IlbKzxddYcenqjS1IhKvlIhNrx3BtaQPPRn9ZSQVTlU/edit?usp=sharing </br>
+See landing page live: https://sboamah.github.io/telfar_typography/
